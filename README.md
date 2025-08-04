@@ -13,7 +13,10 @@ This project displays a clean, responsive gallery of Avengers characters, includ
 
 ## 📸 Preview
 
-![Screenshot of Avengers App](images/screenshot.png)(images/screenshot.png) <!-- Optional: replace with your actual screenshot path -->
+<p align="center">
+  <img src="images/screenshot.png" alt="Screenshot 1" width="400"/>
+  <img src="images/screenshot_02.png" alt="Screenshot 2" width="400"/>
+</p>
 
 ## 🛠️ Tech Stack
 
